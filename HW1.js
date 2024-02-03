@@ -1,5 +1,5 @@
-function sayHello(obj) {
-    console.log(getValue(props));
+function sayHellouser() {
+    console.log(Hello user);
   }
   
-  sayHello()
+  sayHellouser()
